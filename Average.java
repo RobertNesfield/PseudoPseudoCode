@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public Average{
+public class Average{
 	final static long MAX=1000000;
 	final static long MIN=-1000000;
 	public static void main(String[] args){
